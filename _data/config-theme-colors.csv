@@ -1,5 +1,5 @@
-color_class,
-primary, #FF3333
+color_class, color
+primary, #ff0000
 secondary,
 success,
 info,
