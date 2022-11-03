@@ -29,7 +29,7 @@ The template provides includes to pull your collection objects and metadata into
 
 #### Include an Image
 
-{% include "https://github.com/alamorri/Status-and-the-Sacred/blob/main/objects/1-0.jpg" width="75" %}
+{% include objects/1-0.jpg %}
 
 #### Include a PDF
 
