@@ -29,7 +29,7 @@ The template provides includes to pull your collection objects and metadata into
 
 #### Include an Image
 
-{% include feature/1-0.jpg width="75" %}
+{% include feature/image.html objectid="demo_001" width="75" %}
 
 #### Include a PDF
 
