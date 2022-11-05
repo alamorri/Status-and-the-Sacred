@@ -23,13 +23,11 @@ You can also see a page featuring [a bonanza of feature includes options](https:
 
 {% include feature/button.html text="Feature *Includes* Bonanza page" link="https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html" color="primary" size="lg" centered=true %}
 
-### Include Collection Items
+### Central Feature of the Collection
 
-The template provides includes to pull your collection objects and metadata into your interpretive page, allowing you to write with your materials directly embedded in the content.
+The medieval text shown below is the first page of Ricketts 135, a book of hours in the possession of the Lilly Library at Indiana University Bloomington. It was digitized at the request of the author of this project. 
 
-#### Include an Image
-
-Image --> {% raw %}{% include feature/image.html objectid="demo_001" width="75" %}{% endraw %}
+#### Ricketts 135 Page 1
 
 {% include feature/image.html objectid="1-0" width="50" %}
 
