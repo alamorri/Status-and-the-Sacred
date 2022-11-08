@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include objectid="Meester_van_Catharina_van_Kleef_-_Getijdenboek_van_de_Meester_van_Catharina_van_Kleef4.jpg" %}
+{% include feature/image.html objectid="Meester_van_Catharina_van_Kleef_-_Getijdenboek_van_de_Meester_van_Catharina_van_Kleef4.jpg" %}
 
 ## About the Collection
 
