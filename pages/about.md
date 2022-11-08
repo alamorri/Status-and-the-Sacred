@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="Meester_van_Catharina_van_Kleef_-_Getijdenboek_van_de_Meester_van_Catharina_van_Kleef4.jpg" %}
+{% include feature/jumbotron.html objectid="Header" %}
 
 ## About the Collection
 
