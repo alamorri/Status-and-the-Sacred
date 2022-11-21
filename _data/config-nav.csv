@@ -1,6 +1,5 @@
 display_name,stub,dropdown_parent
 Home,/
-Content Warning,/cw.html
 Browse,/browse.html
 Subjects,/subjects.html
 Locations,/locations.html
@@ -11,3 +10,5 @@ About,,
 About The Collection,/about.html,About
 About Books of Hours,/aboutboh.html,About
 Metadata Standards,/ms.html,About
+Content Warning,/cw.html,About
+Copyright Information,/ci.html,About
