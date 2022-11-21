@@ -4,6 +4,9 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+minatures,Minatures
+intital,Intital
+provenance,Provenance
 location,Location
 latitude,Latitude
 longitude,Longitude
