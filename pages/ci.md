@@ -1,7 +1,7 @@
 ---
 title: Copyright Information
 layout: about
-permalink: /aboutboh.html
+permalink: /ci.html
 ---
 **Copyright Information**
 
